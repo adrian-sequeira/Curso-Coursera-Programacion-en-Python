@@ -6,9 +6,8 @@ Created on Tue Jan 25 18:50:04 2022
 """
 
 #==============================================================================
-# LOGICA
+# MODULO LOGICA PROYECTO - PROYECTO CALCULADORA INDICES CORPORALES
 #==============================================================================
-
 
 def calcular_IMC(peso: float, altura: float) -> float:
     
