@@ -82,3 +82,7 @@ def consumo_calorias_recomendado_para_adelgazar(peso: float, altura: float, edad
     consumo_superior = round(calcular_calorias_en_reposo(peso, altura, edad, valor_genero) * 0.85,2)
     
     return print (" Para adelgazar es recomendado que consumas entre:", consumo_inferior, "y", consumo_superior, "calorías al día")
+
+#==============================================================================
+# FIN MODULO LOGICA
+#==============================================================================
